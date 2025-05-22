@@ -37,8 +37,8 @@ Controla a criação e reaproveitamento do serviço ProdutoService.
 
 ## Demonstração
 
-- Imagens do app em funcionamento no emulador Android.
-- Exibição do código-fonte correspondente à execução.
+![Print](C:\Users\hugoa\Downloads\pRINT)
+
 
 ---
 
